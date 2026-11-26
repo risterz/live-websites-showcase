@@ -4,8 +4,8 @@
 
 ### *Every deployed web experience from [risterz](https://github.com/risterz) — verified live, explained, and previewed in one place.*
 
-[![Live Sites](https://img.shields.io/badge/Live_Sites-21-D92B4B?style=flat-square)](https://github.com/risterz/live-websites-showcase)
-[![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-12-F38020?style=flat-square&logo=cloudflarepages&logoColor=white)](https://pages.cloudflare.com/)
+[![Live Sites](https://img.shields.io/badge/Live_Sites-22-D92B4B?style=flat-square)](https://github.com/risterz/live-websites-showcase)
+[![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-13-F38020?style=flat-square&logo=cloudflarepages&logoColor=white)](https://pages.cloudflare.com/)
 [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-2-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white)](https://workers.cloudflare.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-2-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Netlify](https://img.shields.io/badge/Netlify-2-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://www.netlify.com/)
@@ -41,6 +41,7 @@
 | 19 | **UNO Card Game** | [uno-card-game-335.pages.dev](https://uno-card-game-335.pages.dev) | Cloudflare Pages + Render | [risterz/uno-card-game](https://github.com/risterz/uno-card-game) |
 | 20 | **Windows 98 Emulator** | [windows98-emulator.pages.dev](https://windows98-emulator.pages.dev) | Cloudflare Pages | [risterz/windows98-emulator](https://github.com/risterz/windows98-emulator) |
 | 21 | **Brawl Arena** | [brawl-arena.harisharraz02.workers.dev](https://brawl-arena.harisharraz02.workers.dev) | Cloudflare Workers | [risterz/brawl-arena](https://github.com/risterz/brawl-arena) |
+| 22 | **VELA — Donut V** | [vela-atelier.pages.dev](https://vela-atelier.pages.dev) | Cloudflare Pages | [risterz/vela-atelier](https://github.com/risterz/vela-atelier) |
 
 ---
 
@@ -298,3 +299,15 @@ A nostalgic browser recreation of the Windows 98 desktop built with Next.js, Rea
 A fast-paced 3D 3v3 real-time multiplayer arena brawler built with Three.js, TypeScript workspaces, Vite, and Cloudflare Durable Objects. Features 7 custom-rigged 3D brawlers with smooth skeletal animations and emissive shaders, Gem Grab and Brawl Ball modes across 3 symmetric destructible arenas, tactical A* bots for solo play, and cross-platform PC/mobile controls.
 
 ![Brawl Arena Screenshot](./screenshots/brawl-arena.png)
+
+---
+
+### 22. VELA — Donut V Architectural Showcase
+
+- **Live Website:** https://vela-atelier.pages.dev
+- **Repository:** [risterz/vela-atelier](https://github.com/risterz/vela-atelier)
+- **Hosted on:** Cloudflare Pages
+
+A zero-framework architectural luxury patisserie showcase built with vanilla ES modules, raw WebGL1 GLSL shaders, Lenis smooth scroll, parametric 3D SVG CAD wireframes, and a deterministic 25-plate headless Three.js PBR studio renderer in ~27 KB gzipped. Features a real-time cursor-driven ping-pong fluid sprinkle reveal, 12-dot SDF blooming mark, 6-act scroll choreography, holdout-occluded interactive glaze dipping studio, and full SPA checkout.
+
+![VELA Donut V Screenshot](./screenshots/vela-atelier.png)
